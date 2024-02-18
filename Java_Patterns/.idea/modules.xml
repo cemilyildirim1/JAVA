@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdaptorPattern/AdaptorPattern.iml" filepath="$PROJECT_DIR$/AdaptorPattern/AdaptorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgePattern/BridgePattern.iml" filepath="$PROJECT_DIR$/BridgePattern/BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositePattern/CompositePattern.iml" filepath="$PROJECT_DIR$/CompositePattern/CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecaratorPattern/DecaratorPattern.iml" filepath="$PROJECT_DIR$/DecaratorPattern/DecaratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Deneme.iml" filepath="$PROJECT_DIR$/.idea/Java Deneme.iml" />
+    </modules>
+  </component>
+</project>

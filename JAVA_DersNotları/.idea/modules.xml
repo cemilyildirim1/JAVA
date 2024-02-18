@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Arkadas Sayilar/Arkadas Sayilar.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Arkadas Sayilar/Arkadas Sayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Diziler/Cok Boyutlu Diziler/Cok Boyutlu Diziler.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Diziler/Cok Boyutlu Diziler/Cok Boyutlu Diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Degiskenler/Degiskenler.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Degiskenler/Degiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Diziler/Diziler.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Diziler/Diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Diziler/DizilerOrnek/DizilerOrnek.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Diziler/DizilerOrnek/DizilerOrnek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/EnumOrnekler/EnumOrnekler.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/EnumOrnekler/EnumOrnekler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/ErisimBelirliyicilerOrnek/ErisimBelirliyicilerOrnek.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/ErisimBelirliyicilerOrnek/ErisimBelirliyicilerOrnek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/JavaVirtualFonction/JavaVirtualFonction.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/JavaVirtualFonction/JavaVirtualFonction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Matris/Matris.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Matris/Matris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Methods/Methods.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/MiniProje-AsalSayilar/MiniProje-AsalSayilar.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/MiniProje-AsalSayilar/MiniProje-AsalSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/SesliHarfler/SesliHarfler.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/SesliHarfler/SesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/Stringler ile calisma/Stringler ile calisma.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/Stringler ile calisma/Stringler ile calisma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/arrayListTypedDemo/arrayListTypedDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/arrayListTypedDemo/arrayListTypedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/arrayListWithClasses/arrayListWithClasses.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/arrayListWithClasses/arrayListWithClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/arraylistDemo/arraylistDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/arraylistDemo/arraylistDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/classes/classes.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/enumKavrami/enumKavrami.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/enumKavrami/enumKavrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/excaptionHandaling/excaptionHandaling.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/excaptionHandaling/excaptionHandaling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/generics/generics.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/hashMapDemo/hashMapDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/hashMapDemo/hashMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/inheriitenceDemo/inheriitenceDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/inheriitenceDemo/inheriitenceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/javaOdev/javaOdev.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/javaOdev/javaOdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/jdbcIntro/jdbcIntro.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/jdbcIntro/jdbcIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/jdbcIntro2/jdbcIntro2.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/jdbcIntro2/jdbcIntro2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/moteds2/moteds2.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/moteds2/moteds2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/overridin/overridin.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/overridin/overridin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/packagesDemo/packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/reCapDemo_Classe/reCapDemo_Classe.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/reCapDemo_Classe/reCapDemo_Classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/readingFileDemo/readingFileDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/readingFileDemo/readingFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/repositorydemo/repositorydemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/repositorydemo/repositorydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/staticVoid/staticVoid.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/staticVoid/staticVoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/threadingDemo/threadingDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/threadingDemo/threadingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/throwDemo/throwDemo.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/throwDemo/throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javaHelloWorld/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/javademos/javaHelloWorld/workingWithFiles/workingWithFiles.iml" />
+    </modules>
+  </component>
+</project>
